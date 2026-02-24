@@ -164,13 +164,11 @@ python server.py
 
 ---
 
-## Author
-
-**Said Hasan Al Musthafa**
-Applied Telecommunications Engineering
-Politeknik Negeri Padang
-
 ## Demo
+
+Watch the system demonstration here:
+
+[▶️ SmartDoor Demo Video](https://drive.google.com/file/d/1xxMInQMC33yjaKRilkuzvI9NyJcd_et4/view?usp=drivesdk)
 
 System demonstration includes:
 
@@ -178,4 +176,13 @@ System demonstration includes:
 - Server-side recognition
 - Automatic lock control
 - Telegram notification delivery
+
+---
+
+## Author
+
+**Said Hasan Al Musthafa**
+Applied Telecommunications Engineering
+Politeknik Negeri Padang
+
 
