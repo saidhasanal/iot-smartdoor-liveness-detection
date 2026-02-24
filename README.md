@@ -170,3 +170,12 @@ python server.py
 Applied Telecommunications Engineering
 Politeknik Negeri Padang
 
+## Demo
+
+System demonstration includes:
+
+- Face detection & liveness validation
+- Server-side recognition
+- Automatic lock control
+- Telegram notification delivery
+
